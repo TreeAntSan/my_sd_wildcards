@@ -34,3 +34,6 @@ Chinese
 Mongolian
 Bangladeshi
 Laotian
+Maori
+Native Hawaiian
+Polynesian

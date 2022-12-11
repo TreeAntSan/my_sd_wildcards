@@ -37,3 +37,6 @@ Mongolian
 Bangladeshi
 Laotian
 Aboriginal Australian
+Maori
+Native Hawaiian
+Polynesian
