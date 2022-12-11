@@ -1,0 +1,11 @@
+school
+public toilet
+shopping mall
+grocery store
+elementary school
+playground
+train station
+police station
+bus stop
+train car
+transit bus

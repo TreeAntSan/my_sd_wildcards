@@ -1,0 +1,11 @@
+smiling
+dead eye stare
+surprised expression
+angry expression
+grinning
+shouting
+crying
+upset expression
+sad expression
+bored expression
+happy expression

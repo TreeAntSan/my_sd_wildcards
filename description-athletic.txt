@@ -1,0 +1,7 @@
+olympian
+sprinter
+warrior
+runner
+long jumper
+gymnast
+acrobat

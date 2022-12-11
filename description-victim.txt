@@ -1,0 +1,6 @@
+slave
+prisoner
+suspect
+criminal
+medical patient
+refugee

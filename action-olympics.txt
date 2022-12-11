@@ -1,0 +1,11 @@
+olympic boxing competition
+olympic weight-lifting competition
+olympic long jump competition
+olympic discus competition
+olympic gymnastics competition
+olympic wrestling competition
+olympic diving competition
+olympic swimming competition
+olympic running competition
+olympic sprinting competition
+olympic dancing competition

@@ -1,0 +1,17 @@
+public toilet
+dumpster
+construction site
+alleyway
+subway station
+prison
+sanatorium
+migrant camp
+favela
+shanty town
+tent city
+flooded city
+earthquake destroyed
+bombed out city
+portable toilet
+trash heap
+pig farm

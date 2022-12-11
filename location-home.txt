@@ -1,0 +1,10 @@
+living room
+home kitchen
+home dining room
+patio
+master bathroom
+front door
+back door
+staircase
+home garage
+tool shed
