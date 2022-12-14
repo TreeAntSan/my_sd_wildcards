@@ -12,3 +12,5 @@ princess
 queen
 goddess
 nun
+monk
+servant
