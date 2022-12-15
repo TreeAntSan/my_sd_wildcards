@@ -1,0 +1,12 @@
+early morning
+dawn
+daybreak
+high noon
+noon
+afternoon
+evening
+night
+midnight
+sunset
+sunrise
+midday
