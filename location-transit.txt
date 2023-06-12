@@ -1,6 +1,6 @@
-train car interior
-transit bus interior
-boeing 737 interior
-airbus a380 interior
-subway train interior
-cruise ship interior
+inside a train car
+inside a transit bus
+inside a boeing 737
+inside an airbus a380
+inside a subway train
+inside a cruise ship
