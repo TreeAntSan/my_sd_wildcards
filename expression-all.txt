@@ -9,3 +9,10 @@ upset expression
 sad expression
 bored expression
 happy expression
+confused expression
+shocked expression
+tired expression
+winking
+laughing
+screaming
+frowning
