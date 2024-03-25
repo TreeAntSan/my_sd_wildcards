@@ -1,6 +1,9 @@
-low angle
-high angle
+from below, foreshortening
+from above, foreshortening
+from below
+from above
 side view
 closeup
 macro
 telephoto
+pov

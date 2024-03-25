@@ -1,0 +1,13 @@
+indoors, gym locker room
+indoors, airplane bathroom
+indoors, public bathroom
+outdoors, behind dumpster
+indoors, storage closet
+indoors, mall changing room
+indoors, clean Japanese mall bathroom
+indoors, public library corner
+indoors, dark japanese classroom
+outdoors, dark alley in Tokyo
+indoors, back of public bus
+indoors, Japanese school infirmary
+outdoors, behind vending machine

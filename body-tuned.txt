@@ -1,0 +1,8 @@
+(abs:1.3), (skinny muscular:1.3), petite
+(abs:1.3), (skinny muscular:1.3), athletic
+fat, puffy body
+skinny, anorexic, slim
+thick body, bodacious, curvy muscular
+(abs:1.4), (slim muscular:1.3), athletic
+weak anorexic slim, skinny, (abs:1.4)
+muscular, athletic, strong, fitness
