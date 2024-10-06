@@ -10,3 +10,11 @@ crowded elevator
 crowded bus
 crowded school hallway
 crowded concert
+crowded restaurant
+crowded beach
+crowded cafe
+crowded school cafeteria
+crowded parade
+crowded fastfood restaurant
+crowded grocery store
+crowded convenience store
