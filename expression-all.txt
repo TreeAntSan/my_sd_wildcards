@@ -16,3 +16,9 @@ winking
 laughing
 screaming
 frowning
+annoyed expression
+impatient expression
+aroused expression
+begging expression
+puppy dog eyes expression
+sobbing expression
